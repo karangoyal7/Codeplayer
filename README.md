@@ -10,7 +10,9 @@ Output:
 
 Flowchart of Methodology:
 
+
 Live link:
 https://startup-be873.web.app
 
 Novelty:
+This is a website through which a user can know the output of HTML, CSS and JavaScript code. This website enables the user to input HTML, CSS and JavaScript code at one place and know the output in real time.
