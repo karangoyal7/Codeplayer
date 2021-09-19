@@ -2,11 +2,11 @@
 
 Input:
 
-![](input.png)
+![](input.PNG)
 
 Output:
 
-![](output.png)
+![](output.PNG)
 
 Flowchart of Methodology:
 
