@@ -10,6 +10,7 @@ Output:
 
 Flowchart of Methodology:
 
+![](flowchart.PNG)
 
 Live link:
 
